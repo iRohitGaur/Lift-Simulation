@@ -1,0 +1,30 @@
+.input__floorAndLifts {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px 20px;
+  background-color: #6495ed;
+  border-radius: 8px;
+  gap: 5px;
+  min-width: 200px;
+}
+
+input {
+  border: none;
+  border-radius: 4px;
+  padding: 5px;
+  outline: none;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.input__floorAndLifts p {
+  color: white;
+  font-size: 14px;
+}
+
+.input__floorAndLifts .btn {
+  margin: 10px 0;
+  padding: 10px 0;
+  background-color: #edbc64;
+}
