@@ -7,6 +7,10 @@
   border-radius: 8px;
   gap: 5px;
   min-width: 200px;
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -40%);
 }
 
 input {
